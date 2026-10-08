@@ -8,9 +8,9 @@
 
 ---
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](#-tech-stack)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](#-tech-stack)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](#-tech-stack)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](#-tech-stack--ecosystem)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter&logoColor=white)](#-tech-stack--ecosystem)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas&logoColor=white)](#-tech-stack--ecosystem)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
@@ -49,49 +49,3 @@ Unemployment rate serves as a vital barometer for economic stability and workfor
 UnemploymentAnalysis/
 ├── 📓 Unemployment Analysis-checkpoint.ipynb   # End-to-end data pipeline, EDA, and plots
 └── 📄 README.md                                # Project documentation
---
-
-🔬 Methodology & Workflow
-🧹 Data Sanitization & Preprocessing
-
-Trimmed and standardized messy column naming conventions.
-
-Handled missing values, duplicates, and data type formatting (dates, numerics).
-
-📊 Univariate & Bivariate Exploration
-
-Distribution plots and boxplots to detect skewness and variance.
-
-Cross-feature correlation heatmaps to assess metric collinearity.
-
-📉 Time-Series & Regional Visualizations
-
-Multi-line trend charts showcasing monthly trajectory changes.
-
-Bar and scatter charts comparing performance indicators by territory.
-
-🚀 Quickstart Guide
-📋 Prerequisites
-Python 3.8+ installed
-
-pip package manager
-
-⚙️ Installation & Usage
-Clone the repository:
-
-Bash
-git clone [https://github.com/maria-aqdas/UnemploymentAnalysis.git](https://github.com/maria-aqdas/UnemploymentAnalysis.git)
-cd UnemploymentAnalysis
-Install required dependencies:
-
-Bash
-pip install pandas numpy matplotlib seaborn plotly jupyter
-Launch the Notebook:
-
-Bash
-jupyter notebook "Unemployment Analysis-checkpoint.ipynb"
-👤 Author
-Maria Aqdas — GitHub Profile
-
-📄 License
-This project is licensed under the MIT License — feel free to modify and build upon it.
