@@ -5,7 +5,7 @@
 📊 Exploring unemployment trends, regional differences, and changes in employment over time using Python and data visualization.
 
 This project uses **Exploratory Data Analysis (EDA)** to understand unemployment patterns, identify important trends, and explore how unemployment relates to other labor market indicators.
-
+          
 ---
 
 ## 🌟 Project Overview             
