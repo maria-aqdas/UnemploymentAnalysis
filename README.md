@@ -7,7 +7,7 @@
 This project uses **Exploratory Data Analysis (EDA)** to understand unemployment patterns, identify important trends, and explore how unemployment relates to other labor market indicators.
           
 ---
-
+            
 ## 🌟 Project Overview             
 
 Unemployment is an important indicator of a country's economic condition. Studying unemployment data can help us understand changes in the job market, differences between regions, and periods when unemployment increases.
